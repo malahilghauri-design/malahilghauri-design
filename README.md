@@ -1,16 +1,20 @@
 # 💫 Hi 👋, I'm Malahil ghauri
-**A passionate Aritificial intelligence Engineer || DevOps Engineer ||  Admin from Pakistan**
-
-Email Me 👉 ✉️ **moizghauri11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+About me:
+**I am A passionate Aritificial intelligence Engineer and  DevOps Engineer from Pakistan with strong interest in building intelligent system and scalable solutions**
+Contact:
+Email Me  ✉️ **moizghauri11@gmail.com** 
+For Collaboration/Project or Anything Else.
+Current focus:
+-  **I’m currently working on:** AI and DEVOPS project
+-  **I’m currently learning:** Advanced AI,Machine Learning, and Cloud Technologies
+- COLLABORATION
+-  **I’m open to collaborate on:** AI/ML projects, Devops and automation solutions,Innovation tech ideas
+-  Looking for help with:
+-  **I’m looking for help with:** scaling AI system, Deployment and Optimization
+- 💬 **Ask me about:** Collaboration, Tech Support, Artificial Intelligence ,DevOps
 - 📫 **How to reach me:** moizghauri11@gmail.com
-- 😄 **Pronouns:** Malahil Mam
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I Love Tech and i enjoy building things that solve real world problems
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
