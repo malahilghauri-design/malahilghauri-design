@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Malahil%20Ghauri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20RAG%20%7C%20NLP%20%7C%20AI%20Safety%20Research&descAlignY=58&descAlign=50&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+%40+IUB+Pakistan;Building+RAG+%26+LLM+Systems+from+Scratch;Urdu+NLP+Researcher+%7C+Low-Resource+Languages;Open+to+Remote+Internships+%26+Research" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+%40+IUB+Pakistan;Building+RAG+%26+LLM+Systems+from+Scratch;Urdu+NLP+Researcher+%7C+Low-Resource+Languages;Open+to+Remote+Internships+%26+Research" alt="Typing SVG"/>
 
 <br/>
 
@@ -12,9 +12,15 @@
 <a href="mailto:moizghauri11@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=malahilghauri-design&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=malahilghauri-design&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
+
+---
+
+### 🔭 Currently researching
+
+> **Roman Urdu RAG Bias Audit** — found a **79.4% retrieval consistency drop** in RAG pipelines caused purely by Roman Urdu spelling variation, using a novel metric I designed (Retrieval Consistency Score). [View the research →](https://github.com/malahilghauri-design/roman-urdu-rag-bias-audit)
 
 ---
 
@@ -25,7 +31,8 @@ malahil = {
     "university"  : "Islamia University of Bahawalpur, Pakistan",
     "degree"      : "BS Artificial Intelligence (2024–2028)",
     "research"    : ["RAG Systems", "LLMs", "NLP", "AI Safety"],
-    "tools"       : ["Python", "scikit-learn", "Groq API", "Kaggle", "Git"],
+    "focus"       : "Low-resource language bias auditing & retrieval systems",
+    "tools"       : ["Python", "sentence-transformers", "FAISS", "Groq API", "Kaggle"],
     "languages"   : ["English", "Urdu"],
     "open_to"     : ["Remote Internships", "Research Collaborations"],
     "mission"     : "Building AI that works for underrepresented languages"
@@ -39,13 +46,13 @@ malahil = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Roman Urdu RAG Bias Audit</h3>
+      <h3 align="center">🏆 Roman Urdu RAG Bias Audit</h3>
       <p align="center">
         <a href="https://github.com/malahilghauri-design/roman-urdu-rag-bias-audit">
-          <img src="https://img.shields.io/badge/View%20Repo-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
-      <p>Quantitative audit of retrieval instability in Roman Urdu RAG pipelines. Introduces a novel Retrieval Consistency Score (RCS) metric — found a <b>79.4% retrieval consistency drop</b> caused by spelling variation alone, across 18 diverse query intents on a 20K-sentence corpus.</p>
+      <p>Quantitative audit of retrieval instability in Roman Urdu RAG pipelines. Introduces a novel <b>Retrieval Consistency Score (RCS)</b> metric — found a <b>79.4% retrieval consistency drop</b> caused by spelling variation alone, across 18 diverse query intents on a 20K-sentence corpus.</p>
       <p><b>Stack:</b> Python · sentence-transformers · FAISS · Hugging Face Datasets</p>
     </td>
     <td width="50%">
@@ -110,15 +117,14 @@ malahil = {
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq_API-00A67E?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,vscode,kaggle&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/sentence--transformers-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-00D9FF?style=for-the-badge&logo=meta&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_API-00A67E?style=for-the-badge"/>
 </p>
 
 ---
@@ -126,12 +132,12 @@ malahil = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malahilghauri-design&theme=dark&hide_border=true&include_all_commits=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahilghauri-design&theme=dark&hide_border=true&layout=compact&title_color=58A6FF" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=malahilghauri-design&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&icon_color=00D9FF&title_color=00D9FF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahilghauri-design&theme=tokyonight&hide_border=true&layout=compact&title_color=00D9FF" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=malahilghauri-design&theme=dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img src="https://streak-stats.demolab.com/?user=malahilghauri-design&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </p>
 
 ---
@@ -139,7 +145,7 @@ malahil = {
 ## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malahilghauri-design&theme=algolia&no-frame=true&margin-w=8&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=malahilghauri-design&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
 </p>
 
 ---
@@ -167,9 +173,9 @@ malahil = {
 ## 🤝 Open to
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Remote%20Internships-Open-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Research%20Collaborations-Open-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Freelance%20AI%20Projects-Open-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Remote%20Internships-Open-00D9FF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Research%20Collaborations-Open-00D9FF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Freelance%20AI%20Projects-Open-00D9FF?style=for-the-badge&logoColor=black"/>
 </p>
 
 ---
