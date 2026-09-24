@@ -39,14 +39,14 @@ malahil = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Urdu-RAG Pipeline</h3>
+      <h3 align="center">Roman Urdu RAG Bias Audit</h3>
       <p align="center">
-        <a href="https://github.com/malahilghauri-design/urdu-rag-qa">
+        <a href="https://github.com/malahilghauri-design/roman-urdu-rag-bias-audit">
           <img src="https://img.shields.io/badge/View%20Repo-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>First open-source RAG pipeline for Urdu QA. Evaluates retrieval-augmented generation for a 230M+ speaker low-resource language.</p>
-      <p><b>Stack:</b> Python · sentence-transformers · Groq API · Llama 3</p>
+      <p>Quantitative audit of retrieval instability in Roman Urdu RAG pipelines. Introduces a novel Retrieval Consistency Score (RCS) metric — found a <b>79.4% retrieval consistency drop</b> caused by spelling variation alone, across 18 diverse query intents on a 20K-sentence corpus.</p>
+      <p><b>Stack:</b> Python · sentence-transformers · FAISS · Hugging Face Datasets</p>
     </td>
     <td width="50%">
       <h3 align="center">HippoRAG Ablation</h3>
@@ -115,6 +115,8 @@ malahil = {
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq_API-00A67E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
